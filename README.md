@@ -1,0 +1,2 @@
+# specRepo
+iOS custom dependency
