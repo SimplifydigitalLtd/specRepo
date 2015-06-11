@@ -14,7 +14,7 @@
   },
   "source": {
     "git": "https://github.com/ReactiveCocoa/ReactiveCocoa.git",
-    "tag": "v3.0-beta.7"
+    "tag": "v3.0-beta.8"
   },
   "default_subspecs": "UI",
   "dependencies": {
